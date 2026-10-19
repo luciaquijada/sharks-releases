@@ -45,7 +45,7 @@ The output should end with `source=Notarized Developer ID`.
 
 ## Updates
 
-Shortly after it opens, and then once a day, Sharks checks this repository for a newer version and shows a notice when there is one. It sends nothing about you or your Mac: it only reads the public list of releases.
+Shortly after it opens, and then once a day, Sharks checks this repository for a newer version and shows a notice when there is one. It sends nothing about you or your Mac: it only reads the public list of releases. You can turn this off, or check by hand, in Settings → About.
 
 ## Reporting a problem
 

@@ -1,5 +1,10 @@
 # Security
 
-If you find a security problem in Sharks, please report it privately by email to **luciaquijada@sharks-app.es** instead of opening a public issue.
+If you find a security problem in Sharks, please **do not open a public issue**. Report it privately instead:
 
-Include what you found, the steps to reproduce it and the version you are using (Settings → About). You will get an answer as soon as possible, and the fix will be published as a new release here.
+- **On GitHub:** Security → Report a vulnerability, in this repository.
+- **By email:** luciaquijada@sharks-app.es
+
+Include the steps to reproduce it, the impact you expect and the Sharks version you are using (Settings → About). You will get an answer within 7 days, and the fix will be published as a new release here.
+
+How Sharks stores your data and what it trusts is explained in the app's privacy policy: [sharks-app.es/en/privacy](https://sharks-app.es/en/privacy/).
