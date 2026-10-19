@@ -1,0 +1,8 @@
+# The installers are attached to each GitHub release, never committed
+*.dmg
+*.blockmap
+*.zip
+*.exe
+
+# macOS
+.DS_Store
