@@ -7,7 +7,7 @@ It only holds the downloads and their release notes. The app's source code is no
 - **Download:** [latest release](https://github.com/luciaquijada/sharks-releases/releases/latest)
 - **Website:** [sharks-app.es/en](https://sharks-app.es/en/)
 - **Privacy:** [sharks-app.es/en/privacy](https://sharks-app.es/en/privacy/)
-- **Contact:** luciaquijada@sharks-app.es
+- **Contact:** luciaquijada@quijadadev.es
 
 ## Which file do I need?
 
@@ -49,4 +49,4 @@ Shortly after it opens, and then once a day, Sharks checks this repository for a
 
 ## Reporting a problem
 
-Write to luciaquijada@sharks-app.es. For security issues, see [SECURITY.md](SECURITY.md).
+Write to luciaquijada@quijadadev.es. For security issues, see [SECURITY.md](SECURITY.md).
